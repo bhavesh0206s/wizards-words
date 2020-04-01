@@ -49,10 +49,10 @@ const Bio = () => {
       <p style={{color: 'var(--textNormal)'}}>
         <strong>
           <em>
-          “People that have trust issues only need to look in the mirror. There they will meet the one person that will betray them the most.”
+          “You don't want million admirer you just want one.”
           </em>
           <div style={{fontWeight: 200, fontSize: 15}}>
-           ― Shannon L. Alder 
+            
           </div>
         </strong>
         {author.summary}
