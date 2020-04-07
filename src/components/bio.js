@@ -49,7 +49,7 @@ const Bio = () => {
       <p style={{color: 'var(--textNormal)'}}>
         <strong>
           <em>
-          “You don't want million admirer you just want one.”
+          “There are plenty of fish in the ocean.”
           </em>
           <div style={{fontWeight: 200, fontSize: 15}}>
             
