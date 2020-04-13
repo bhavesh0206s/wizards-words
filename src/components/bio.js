@@ -49,7 +49,7 @@ const Bio = () => {
       <p style={{color: 'var(--textNormal)'}}>
         <strong>
           <em>
-          “There are plenty of fish in the ocean.”
+          “We must accept finite disappointment, but never lose infinite hope.”
           </em>
           <div style={{fontWeight: 200, fontSize: 15}}>
             
