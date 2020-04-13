@@ -20,7 +20,7 @@ _**Side note:** Manipulation is not evil. It is just another tool, the nature of
 
 
 
-![If I don't have to do it, I won't. If I have to do it, I'll make it quick.](https://animemotivation.com/wp-content/uploads/2018/09/Houtarou-Oreki-quotes-5.jpg)
+![If I don't have to do it, I won't. If I have to do it, I'll make it quick.](./1.jpeg)
 
 
 
