@@ -63,14 +63,17 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       </Helmet>
       <ThemeToggler>
           {({ theme, toggleTheme }) => (
-            <div className="pretty p-switch p-fill" style={{float: "right", marginTop: 20}}>
-              <input
-                type="checkbox" 
-                onChange={e => toggleTheme(e.target.checked ? 'dark' : 'light')}
-                checked={theme === 'dark'}
-              />
+            <div className="pretty p-switch p-fill" style={{display:"flex" ,float: "right", marginTop: 20}}>
+              <div style={{color: 'var(--textNormal)', margin: "0 5px", fontWeight: 200}}>
+                  <label>Light</label>
+              </div>
+                <input
+                  type="checkbox" 
+                  onChange={e => toggleTheme(e.target.checked ? 'dark' : 'light')}
+                  checked={theme === 'dark'}
+                />
               <div style={{color: 'var(--textNormal)'}} className="state">
-                  <label>Theme</label>
+                  <label>Dark</label>
               </div>
             </div>
           )}
