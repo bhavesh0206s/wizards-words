@@ -49,7 +49,7 @@ const Bio = () => {
       <p style={{color: 'var(--textNormal)'}}>
         <strong>
           <em>
-          “What if everything that came from the past was influenced by the future.”
+          “The limited circle is pure.”
           </em>
           <div style={{fontWeight: 200, fontSize: 15}}>
             

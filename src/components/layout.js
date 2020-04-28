@@ -64,7 +64,7 @@ const Layout = ({ location, title, children }) => {
       <footer style={{color: 'var(--textNormal)'}}>
         © {new Date().getFullYear()}, Built with
         {` `}
-        &#10084; by MBLC
+        &#10084;
       </footer>
     </div>
   )
