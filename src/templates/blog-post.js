@@ -65,7 +65,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           {({ theme, toggleTheme }) => (
             <div className="pretty p-switch p-fill" style={{display:"flex" ,float: "right", marginTop: 20}}>
               <div style={{color: 'var(--textNormal)', margin: "0 5px", fontWeight: 200}}>
-                  Light
+                  <label>Light</label> 
               </div>
                 <input
                   type="checkbox" 
@@ -73,7 +73,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                   checked={theme === 'dark'}
                 />
               <div style={{color: 'var(--textNormal)'}} className="state">
-                  Dark
+                <label>Dark</label> 
               </div>
             </div>
           )}
