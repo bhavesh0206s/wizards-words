@@ -37,6 +37,8 @@ I this world you will go through a lot of betrays but you should be careful enou
 # Lesson-5: There’s no such thing as a perfect society
 No matter how perfect a society gets, there’s always someone who opposes it. That’s not to say there’s no use making an effort, just that the idea of perfect isn’t shared by everyone.“Unless someone makes the first move, nothing will happen.” – Misa Amane
 
-
 Light’s perfect society was different while Law had a different society which was perfect for him.
 Justice itself is very subjective. It is no good or evil, there is only power. Truly, whoever has power decides what "good" and "evil".
+
+
+# Lesson-6: Apples are yumm
