@@ -49,7 +49,7 @@ const Bio = () => {
       <p style={{color: 'var(--textNormal)'}}>
         <strong>
           <em>
-          “The limited circle is pure.”
+          “It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful outcome.”
           </em>
           <div style={{fontWeight: 200, fontSize: 15}}>
             
